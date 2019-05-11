@@ -81,6 +81,11 @@ body {
   align-items: center;
 }
 
+.footer {
+  padding: 30px;
+  background-color: #fff;
+  text-align: center;
+}
 
 
 
